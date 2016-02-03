@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://edwardhurcombe.github.io
+title: ResBaz 2016 Test Blog
+email: edwardhurcombe@gmail.com
+author: edwardhurcombe
+description: My awesome new site
+paginate: 3
+google_analytics: 
